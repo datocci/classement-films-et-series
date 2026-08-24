@@ -19,10 +19,12 @@ les décors et l'histoire aide a l'immersion .
 
 **Pourquoi :** Décors, histoire, ambiance, ca fonctionne.
 
-### Aniki, mon frère
-**Note :** 75 / 100
+
+### Sonatine
+**Note :** 78 / 100
 
 **Pourquoi :** L'ambiance et le charisme des personnages permette de bien s'immerger dans l'histoire
+et plus crédible que Aniki
 
 
 ### Violent Cop
@@ -31,11 +33,12 @@ les décors et l'histoire aide a l'immersion .
 **Pourquoi :** le jeu des acteurs est excellent, ils portent l'histoire tout est crédible
 
 
-### Sonatine
-**Note :** 78 / 100
+### Aniki, mon frère
+**Note :** 75 / 100
 
 **Pourquoi :** L'ambiance et le charisme des personnages permette de bien s'immerger dans l'histoire
-et plus crédible que Aniki
+
+
 
 ### Battle Royale
 **Note :** 74 / 100
@@ -50,7 +53,7 @@ et plus crédible que Aniki
 **Pourquoi :** l'histoire est poignante magnifiquement réalisée de bout en bout avec toute une gamme d'émotion dans l'univers tragique de la ww2 au Japon
 
 ### Le Conte de la princesse Kaguya
-**Note :** 85 / 100
+**Note :** 82 / 100
 
 **Pourquoi :** un conte emprunt de poésie magnifiquement réalisé
 
@@ -62,23 +65,23 @@ et plus crédible que Aniki
 ## Cinéma hongkongais et arts martiaux
 
 ### Histoire de fantômes chinois
-**Note :** 75 / 100
+**Note :** 74 / 100
 
 **Pourquoi :**  on se laisse prendre par le charisme des acteur , l'ambiance
 
 ### King of Beggars
-**Note :** 75 / 100
+**Note :** 73 / 100
 
 **Pourquoi :** très drôle avec des acteurs charismatique et des costumes et décors bien réalisé
 
 ### Royal Tramp
-**Note :** 77 / 100
+**Note :** 76 / 100
 
 **Pourquoi :** très drôle avec des acteurs charismatique et des costumes et décors bien réalisé
 
 
 ### Royal Tramp II
-**Note :** 77 / 100
+**Note :** 76 / 100
 
 **Pourquoi :**très drôle avec des acteurs charismatique et des costumes et décors bien réalisé
 
@@ -94,17 +97,17 @@ et plus crédible que Aniki
 **Pourquoi :** le premier film très cliché mais Bruce a un charisme dingue
 
 ### La Fureur de vaincre
-**Note :** 73 / 100
+**Note :** 72 / 100
 
 **Pourquoi :** tout repose sur Bruce l'histoire est pas mal
 
 ### La Fureur du dragon
-**Note :** 75 / 100
+**Note :** 74 / 100
 
 **Pourquoi :** les deux tête d'affiche marche bien et le méchant a un charisme volontairement ridicule j'aime bien
 
 ### Opération Dragon
-**Note :** 74 / 100
+**Note :** 73 / 100
 
 **Pourquoi :** l'histoire est sympas a suivre et evidemet Bruce porte le film
 
@@ -121,7 +124,7 @@ et plus crédible que Aniki
 **Pourquoi :** Clint dans son role le plus mythique tout est crédible sympas
 
 ### Il était une fois dans l’Ouest
-**Note :** 87 / 100
+**Note :** 85 / 100
 
 **Pourquoi :** la musique, les acteurs , l'histoire une master classe
 
@@ -139,7 +142,7 @@ et plus crédible que Aniki
 ## Comédies françaises
 
 ### La Traversée de Paris
-**Note :** 87 / 100
+**Note :** 85 / 100
 
 **Pourquoi :** ce film retranscrit une période poignante terrible mais avec un humour génial et de trés bons acteurs
 
